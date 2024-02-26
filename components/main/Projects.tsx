@@ -12,17 +12,17 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
+          src="/3d.png"
           title="React 3 Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Starterpack and workshop in NEXT.JS"
         />
         <ProjectCard
-          src="/CardImage.png"
+          src="/gg.png"
           title="Going Genius Company"
           description="Leader at Going Genius Group of Company Pvt. Ltd."
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
+          src="/relativity.png"
           title="https://ggrelativity.xyz/"
           description="GG Relativity"
         />
