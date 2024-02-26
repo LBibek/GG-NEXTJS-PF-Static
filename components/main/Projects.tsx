@@ -23,8 +23,8 @@ const Projects = () => {
         />
         <ProjectCard
           src="/relativity.png"
-          title="https://ggrelativity.xyz/"
-          description="GG Relativity"
+          title="GG Relativity"
+          description="GG Relativity Business ERP for any Business"
         />
       </div>
     </div>
