@@ -62,7 +62,7 @@ const HeroContent = () => {
         className="w-full h-full flex justify-center items-center"
       >
         <Image
-          src="https://models.readyplayer.me/64e30cf0c603b299c00daf64.png?pose=thumbs-up&camera=fullbody&quality=100"
+          src="https://models.readyplayer.me/64e30cf0c603b299c00daf64.png?pose=thumbs-up&camera=fullbody&quality=100&blendShapes[mouthSmile]=0.5"
           alt="work icons"
           height={650}
           width={650}
