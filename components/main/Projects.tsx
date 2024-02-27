@@ -11,21 +11,28 @@ const Projects = () => {
         My Genius Projects
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
-        <ProjectCard
-          src="/3d.png"
-          title="React 3 Next.js Portfolio"
-          description="Starterpack and workshop in NEXT.JS"
-        />
-        <ProjectCard
-          src="/gg.png"
-          title="Going Genius Company"
-          description="Leader at Going Genius Group of Company Pvt. Ltd."
-        />
-        <ProjectCard
-          src="/relativity.png"
-          title="GG Relativity"
-          description="GG Relativity Business ERP for any Business"
-        />
+      <a href="https://r3-f-next-js-starter-package-ayush-lamas-projects.vercel.app/">
+  <ProjectCard
+    src="/3d.png"
+    title="React 3 Next.js Portfolio"
+    description="Starterpack and workshop in NEXT.JS"
+  />
+</a>
+<a href="https://goinggenius.com.np/">
+  <ProjectCard
+    src="/gg.png"
+    title="Going Genius Company"
+    description="Leader at Going Genius Group of Company Pvt. Ltd."
+  />
+</a>
+<a href="https://ggrelativity.xyz/">
+  <ProjectCard
+    src="/relativity.png"
+    title="GG Relativity"
+    description="GG Relativity Business ERP for any Business"
+  />
+</a>
+
       </div>
     </div>
   );
